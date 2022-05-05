@@ -34,7 +34,7 @@ function Home() {
       </div>
       <div>
         <p className=" text-3xl mt-2 py-4 ml-6 text-red-400">
-          Visitez les Brasseries
+          Visitez les Brasseries super Aws
         </p>
         <div className=" flex justify-center">
           {/* verification si c'est le tableau data n'est pas vide */}
