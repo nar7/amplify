@@ -1,0 +1,38 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "les produits des brasseries",
+      "produits": [
+        "Bières",
+        "Boissons alcoolisées ",
+        "Boissons énergisantes ",
+        "Sodas ",
+        "Eau minérale"
+      ],
+      "image": "/images/1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "les filiales du groupe SABC",
+      "produits": [
+        "Les Brasseries du Cameroun",
+        "Société des eaux minérales du Cameroun",
+        "Société Camerounaise de Verrerie",
+        "Compagnie Fermière du Cameroun"
+      ],
+      "image": "/images/2.png"
+    },
+    {
+      "id": 3,
+      "title": "le groupe SABC dans les regions du cameroun",
+      "produits": [
+        "regions de l'Ouest ",
+        "region du nord",
+        "region du centre",
+        "region du littoral"
+      ],
+      "image": "/images/3.jpg"
+    }
+  ]
+}
